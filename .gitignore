@@ -1,0 +1,8 @@
+/build
+*.log
+*.out
+
+/example
+.cproject
+.project
+/.settings
